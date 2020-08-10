@@ -1,0 +1,56 @@
+.all1{
+    width: 100%;
+  border: 1px blueviolet solid;
+  text-align:center;
+}
+.Sub1{
+    font-size: 1em;
+  background-color: royalblue;
+  color: white;
+  padding: 0.75em 1.5em;
+  margin: 10;
+}
+.Pa1{
+    font-size: 1em;
+  padding: 1.5em 3rem;
+  margin: 0;
+}
+.all2{
+    width: 100%;
+  border: 1px blueviolet solid;
+  text-align:center;
+}
+.Sub2{
+    font-size: 1em;
+  background-color: royalblue;
+  color: white;
+  padding: 0.75em 1.5em;
+  margin: 10;
+}
+.Pa2{
+    font-size: 1em;
+  padding: 1.5em 3rem;
+  margin: 0;
+}
+.all3{
+    width: 100%;
+  border: 1px blueviolet solid;
+  text-align:center;
+}
+.Sub3{
+    font-size: 1em;
+  background-color: royalblue;
+  color: white;
+  padding: 0.75em 1.5em;
+  margin: 10;
+}
+.Pa3{
+    font-size: 1em;
+  padding: 1.5em 3rem;
+  margin: 0;
+}
+.formulario{
+  width: 100%;
+  border: 1px blueviolet solid;
+  text-align:center;
+}
