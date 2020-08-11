@@ -1,56 +1,32 @@
-.all1{
-    width: 100%;
-  border: 1px blueviolet solid;
-  text-align:center;
-}
-.Sub1{
-    font-size: 1em;
-  background-color: royalblue;
-  color: white;
+.Sub{
+  font-size: 1em;
+  background-color: rgb(172, 69, 22);
+  color: rgb(208, 255, 0) ;
   padding: 0.75em 1.5em;
-  margin: 10;
+  margin:3;
 }
-.Pa1{
-    font-size: 1em;
-  padding: 1.5em 3rem;
-  margin: 0;
-}
-.all2{
-    width: 100%;
-  border: 1px blueviolet solid;
-  text-align:center;
-}
-.Sub2{
-    font-size: 1em;
-  background-color: royalblue;
-  color: white;
-  padding: 0.75em 1.5em;
-  margin: 10;
-}
-.Pa2{
-    font-size: 1em;
-  padding: 1.5em 3rem;
-  margin: 0;
-}
-.all3{
-    width: 100%;
-  border: 1px blueviolet solid;
-  text-align:center;
-}
-.Sub3{
-    font-size: 1em;
-  background-color: royalblue;
-  color: white;
-  padding: 0.75em 1.5em;
-  margin: 10;
-}
-.Pa3{
-    font-size: 1em;
-  padding: 1.5em 3rem;
-  margin: 0;
-}
-.formulario{
+  .formulario{
   width: 100%;
   border: 1px blueviolet solid;
   text-align:center;
+}
+.Pa{
+  width: 100%;
+  text-align:center;
+  border: 1px blueviolet solid;
+}
+.lc1{
+  color: rgb(77, 142, 158);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 2em;
+}
+.lc2{
+  color: cyan;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 1.25em;
+}
+.lc3{
+  color: cornflowerblue;
+  font-family: sans-serif;
+  font-size: 1.5em;
 }
